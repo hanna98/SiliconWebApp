@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebApiProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2FB482-8249-4029-8425-0E3CFE249595}|WebApi\\WebApi.csproj|c:\\nackademin\\asp.net1\\silicon_exam\\siliconproject\\siliconwebapiproject\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F2FB482-8249-4029-8425-0E3CFE249595}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2FB482-8249-4029-8425-0E3CFE249595}|WebApi\\WebApi.csproj|c:\\nackademin\\asp.net1\\silicon_exam\\siliconproject\\siliconwebapiproject\\webapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2FB482-8249-4029-8425-0E3CFE249595}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2FB482-8249-4029-8425-0E3CFE249595}|WebApi\\WebApi.csproj|c:\\nackademin\\asp.net1\\silicon_exam\\siliconproject\\siliconwebapiproject\\webapi\\attributes\\useapikeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2FB482-8249-4029-8425-0E3CFE249595}|WebApi\\WebApi.csproj|solutionrelative:webapi\\attributes\\useapikeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2FB482-8249-4029-8425-0E3CFE249595}|WebApi\\WebApi.csproj|c:\\nackademin\\asp.net1\\silicon_exam\\siliconproject\\siliconwebapiproject\\webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2FB482-8249-4029-8425-0E3CFE249595}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebApiProject\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebApiProject\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAADfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T13:09:47.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UseApiKeyAttribute.cs",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebApiProject\\WebApi\\Attributes\\UseApiKeyAttribute.cs",
+              "RelativeDocumentMoniker": "WebApi\\Attributes\\UseApiKeyAttribute.cs",
+              "ToolTip": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebApiProject\\WebApi\\Attributes\\UseApiKeyAttribute.cs",
+              "RelativeToolTip": "WebApi\\Attributes\\UseApiKeyAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:58:46.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebApiProject\\WebApi\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebApiProject\\WebApi\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:57:55.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebApiProject\\WebApi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebApiProject\\WebApi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:57:50.576Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

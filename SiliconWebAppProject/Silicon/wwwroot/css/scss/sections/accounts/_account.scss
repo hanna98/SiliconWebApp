@@ -1,0 +1,47 @@
+.account {
+    height: 100%;
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+
+    .container {
+        height: 100%;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-areas:
+            "aside" "main";
+
+        @include xl {
+            grid-template-columns: 350px 1fr;
+            grid-template-areas:
+                "aside main";
+        }
+
+
+        aside {
+            grid-area: aside;
+            padding-top: 1rem;
+            padding-bottom: 1rem;
+            padding-right: 2rem;
+            border-bottom: 1px solid var(--color-gray-400);
+
+            @include xl {
+                border-right: 1px solid var(--color-gray-400);
+                border-bottom: none;
+            }
+
+            .account-nav {
+                margin-top: 2rem;
+
+                .btn {
+                    margin-bottom: 10px;
+                    font-size: 16px;
+                }
+            }
+        }
+
+        main {
+            grid-area: main;
+            padding: 1rem 2rem;
+        }
+    }
+}

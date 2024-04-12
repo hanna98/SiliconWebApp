@@ -1,0 +1,87 @@
+﻿@model AccountSecurityViewModel
+@{
+    Layout = "_AccountLayout";
+    ViewData["Title"] = "Security";
+}
+
+<section class="security">
+    <div class="container">
+        <h2>@ViewData["Title"]</h2>
+
+        <h5 class="h5-theme">Password</h5>
+
+        @if (!string.IsNullOrEmpty(TempData["StatusMessageUser"]?.ToString()) && !string.IsNullOrEmpty(TempData["StatusMessage"]?.ToString()))
+        {
+            <div class="alert alert-danger">
+                @TempData["StatusMessageUser"]
+                @TempData["StatusMessage"]
+            </div>
+        }
+        else if (!string.IsNullOrEmpty(TempData["PasswordChangedUser"]?.ToString()) && !string.IsNullOrEmpty(TempData["PasswordChanged"]?.ToString()))
+        {
+            <div class="alert alert-success">
+                @TempData["PasswordChangedUser"]
+                @TempData["PasswordChanged"]
+            </div>
+        }
+
+        <form class="form-password form-signin" method="post" asp-controller="Account" asp-action="ChangePassword">
+            <div class="form-content">
+                <div class="input-current input-group">
+                    <label class="input-label" asp-for="ChangePassword.CurrentPassword"></label>
+                    <input asp-for="ChangePassword.CurrentPassword" placeholder="********" />
+                    <span asp-validation-for="ChangePassword.CurrentPassword"></span>
+                </div>
+
+                <div class="input-new input-group">
+                    <label class="input-label" asp-for="ChangePassword.NewPassword"></label>
+                    <input asp-for="ChangePassword.NewPassword" placeholder="********" />
+                    <span asp-validation-for="ChangePassword.NewPassword"></span>
+                </div>
+
+                <div class="input-confirm input-group">
+                    <label class="input-label" asp-for="ChangePassword.ConfirmPassword"></label>
+                    <input asp-for="ChangePassword.ConfirmPassword" placeholder="********" />
+                    <span asp-validation-for="ChangePassword.ConfirmPassword"></span>
+                </div>
+
+                <div class="submit">
+                    <div class="submit-buttons">
+                        <button type="reset" class="btn btn-gray">Cancel</button>
+                        <button type="submit" class="btn btn-theme">Change password</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+
+        <hr class="account-middle-line"></hr>
+
+        <h5 class="h5-theme">Password</h5>
+        @if (!string.IsNullOrEmpty(TempData["StatusMessageDelete"]?.ToString()))
+        {
+            <div class="alert alert-danger">
+                @TempData["StatusMessageDelete"]
+            </div>
+        }
+        else
+        {
+            <p>When you delete your account, your public profile will be deactivated immediately. If you change your mind before the 14 days are up, sign in with your email and password, and we’ll send you a link to reactivate your account.</p>
+        }
+
+        <form class="form-delete form-signin" method="post" asp-controller="Account" asp-action="Delete">
+            <div class="form-content">
+                <div class="checkbox-group delete-group">
+                    <div class="input-group">
+                        <input asp-for="Delete.DeleteAccount" />
+                        <label asp-for="Delete.DeleteAccount">
+                            Yes, I want to delete my account.
+                        </label>
+                    </div>
+                </div>
+                <div class="submit-button">
+                    <button type="submit" class="btn btn-danger">Delete</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>

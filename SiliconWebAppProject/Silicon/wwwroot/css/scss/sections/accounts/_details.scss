@@ -1,0 +1,109 @@
+.details {
+    margin-bottom: 3em;
+
+    .container {
+        display: block;
+
+        .h5-theme {
+            color: var(--color-theme);
+            @include no-mp;
+            margin-top: 30px;
+        }
+
+        .account-middle-line {
+            width: 100%;
+            border: 1px solid var(--color-gray-300);
+        }
+
+        .form-basic-info {
+            margin-bottom: 40px;
+
+            .form-content {
+                display: grid;
+                gap: 5px;
+                grid-template-columns: 1fr;
+                grid-template-areas:
+                    "firstname" "lastname" "email" "phone" "bio" "submit";
+
+                @include md {
+                    grid-template-columns: 1fr 1fr;
+                    grid-template-areas:
+                        "firstname lastname" "email phone" "bio bio" "submit submit";
+                }
+
+                .input-firstname {
+                    grid-area: firstname;
+                }
+
+                .input-lastname {
+                    grid-area: lastname;
+                }
+
+                .input-email {
+                    grid-area: email;
+                }
+
+                .input-phone {
+                    grid-area: phone;
+                }
+
+                .input-bio {
+                    grid-area: bio;
+                }
+
+                .submit {
+                    grid-area: submit;
+                    margin-top: 1em;
+
+                    .submit-buttons {
+                        display: flex;
+                        gap: 10px;
+                    }
+                }
+            }
+        }
+    }
+
+    .form-address-info {
+
+        .form-content {
+            display: grid;
+            gap: 5px;
+            grid-template-columns: 1fr;
+            grid-template-areas:
+                "addressline1" "addressline2" "postal" "city" "submit";
+
+            @include md {
+                grid-template-columns: 1fr 1fr;
+                grid-template-areas:
+                    "addressline1 addressline1" "addressline2 addressline2" "postal city" "submit submit";
+            }
+
+            .input-addressline1 {
+                grid-area: addressline1;
+            }
+
+            .input-addressline2 {
+                grid-area: addressline2;
+            }
+
+            .input-postal {
+                grid-area: postal;
+            }
+
+            .input-city {
+                grid-area: city;
+            }
+
+            .submit {
+                grid-area: submit;
+                margin-top: 1em;
+
+                .submit-buttons {
+                    display: flex;
+                    gap: 10px;
+                }
+            }
+        }
+    }
+}

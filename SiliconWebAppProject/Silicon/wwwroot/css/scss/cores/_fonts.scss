@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+$font-manrope: "Manrope", sans-serif;
+
+@mixin font {
+    font-family: $font-manrope;
+    line-height: 1.5;
+}
+
+
+@mixin font-standard {
+    @include font;
+    font-weight: 400;
+}
+@mixin font-medium {
+    @include font;
+    font-weight: 500;
+}
+@mixin font-semibold {
+    @include font;
+    font-weight: 600;
+}
+@mixin font-bold {
+    @include font;
+    font-weight: 700;
+}
+@mixin font-extrabold {
+    @include font;
+    font-weight: 800;
+}
+
+
+@mixin display-1{
+    @include font-extrabold;
+    font-size: 5em;
+}
+@mixin display-2 {
+    @include font-extrabold;
+    font-size: 4.5em;
+}
+@mixin display-3 {
+    @include font-extrabold;
+    font-size: 4em;
+}
+@mixin display-4 {
+    @include font-extrabold;
+    font-size: 3.5em;
+}
+@mixin display-5 {
+    @include font-extrabold;
+    font-size: 3em;
+}
+@mixin display-6 {
+    @include font-extrabold;
+    font-size: 2.652em;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    @include font-extrabold;
+}
+@mixin h1 {
+    font-size: 1.75em;
+
+    @include lg {
+        font-size: 2em;
+    }
+
+    @include xl {
+        font-size: 2.5em;
+    }
+}
+.h1 {
+    font-size: 1.75em;
+
+    @include lg {
+        font-size: 2em;
+    }
+
+    @include xl {
+        font-size: 2.5em;
+    }
+}
+h1 {
+    font-size: 2.5em;
+}
+h2 {
+    font-size: 2em;
+}
+h3 {
+    font-size: 1.75em;
+}
+h4 {
+    font-size: 1.5em;
+}
+h5 {
+    font-size: 1.25em;
+}
+h6 {
+    font-size: 1em;
+}

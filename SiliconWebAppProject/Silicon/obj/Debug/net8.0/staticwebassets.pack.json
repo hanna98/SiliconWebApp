@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\_componentes.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_componentes.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\_cores.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_cores.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\_sections.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_sections.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\components\\_alert.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\components\\_boxes.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_boxes.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\components\\_switches.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_switches.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\components\\_titles.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_titles.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\cores\\_colors.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\cores\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\cores\\_common.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\cores\\_common.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\cores\\_fonts.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\cores\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\cores\\_media.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\cores\\_media.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\_accounts.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_accounts.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\_auth.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\_courses.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_courses.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\_home.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_home.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\_partials.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_partials.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\accounts\\_account-avatar.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\accounts\\_account-avatar.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\accounts\\_account.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\accounts\\_account.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\accounts\\_details.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\accounts\\_details.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\accounts\\_security.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\accounts\\_security.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\auth\\_signin.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\auth\\_signin.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\auth\\_signup.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\auth\\_signup.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\courses\\_course.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\courses\\_course.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\courses\\_pagination.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\courses\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\home\\_downloads.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\home\\_downloads.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\home\\_features.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\home\\_features.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\home\\_integrate.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\home\\_integrate.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\home\\_lightdark.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\home\\_lightdark.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\home\\_managework.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\home\\_managework.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\home\\_newsletter.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\home\\_newsletter.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\home\\_showcase.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\home\\_showcase.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\partials\\_footer.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\partials\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\partials\\_header.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\partials\\_header.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\site.scss",
+      "PackagePath": "staticwebassets\\css\\site.scss"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\courses\\course_1.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_1.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\courses\\course_2.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_2.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\courses\\course_3.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_3.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\courses\\course_4.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_4.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\courses\\course_5.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_5.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\courses\\course_6.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_6.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\courses\\course_7.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_7.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\courses\\course_8.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_8.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\courses\\course_9.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_9.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\ManageWork\\bx-check-circle.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\ManageWork\\bx-check-circle.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\ManageWork\\dashboardImage.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\ManageWork\\dashboardImage.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\downloads\\appstore-dark.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\downloads\\appstore-dark.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\downloads\\appstore-light.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\downloads\\appstore-light.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\downloads\\googleplay-dark.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\downloads\\googleplay-dark.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\downloads\\googleplay-light.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\downloads\\googleplay-light.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\downloads\\rating.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\downloads\\rating.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\downloads\\screens.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\downloads\\screens.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\icon_tools\\icon_tools_1.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\icon_tools\\icon_tools_1.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\icon_tools\\icon_tools_2.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\icon_tools\\icon_tools_2.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\icon_tools\\icon_tools_3.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\icon_tools\\icon_tools_3.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\icon_tools\\icon_tools_4.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\icon_tools\\icon_tools_4.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\icon_tools\\icon_tools_5.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\icon_tools\\icon_tools_5.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\icon_tools\\icon_tools_6.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\icon_tools\\icon_tools_6.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\integrate-brands\\Dropbox.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\integrate-brands\\Dropbox.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\integrate-brands\\Evernote.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\integrate-brands\\Evernote.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\integrate-brands\\MailChimp.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\integrate-brands\\MailChimp.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\integrate-brands\\gmail.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\integrate-brands\\gmail.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\integrate-brands\\google.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\integrate-brands\\google.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\integrate-brands\\slack.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\integrate-brands\\slack.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\integrate-brands\\trello.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\integrate-brands\\trello.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\integrate-brands\\zoom.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\integrate-brands\\zoom.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\iphone\\appstore.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\iphone\\appstore.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\iphone\\googleplay.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\iphone\\googleplay.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\iphone\\rating.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\iphone\\rating.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\iphone\\screens.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\iphone\\screens.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\logo_brands\\logo_brand_1.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\logo_brands\\logo_brand_1.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\logo_brands\\logo_brand_2.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\logo_brands\\logo_brand_2.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\logo_brands\\logo_brand_3.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\logo_brands\\logo_brand_3.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\logo_brands\\logo_brand_4.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\logo_brands\\logo_brand_4.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\newsletter\\arrows.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\newsletter\\arrows.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\slider-dark-light\\button.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\slider-dark-light\\button.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\slider-dark-light\\mockup.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\slider-dark-light\\mockup.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\subscribe\\arrows.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\subscribe\\arrows.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\homepage_img\\twisted\\Twisted_Img.svg",
+      "PackagePath": "staticwebassets\\images\\homepage_img\\twisted\\Twisted_Img.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\logos\\logo-dark.svg",
+      "PackagePath": "staticwebassets\\images\\logos\\logo-dark.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\logos\\logo-light.svg",
+      "PackagePath": "staticwebassets\\images\\logos\\logo-light.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\js\\account.js",
+      "PackagePath": "staticwebassets\\js\\account.js"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\js\\courses.js",
+      "PackagePath": "staticwebassets\\js\\courses.js"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\uploads\\avatar.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\uploads\\p_10ee9214-a059-43e7-b818-08c06cecca9f_6292cd1d-a6d0-42d5-9fb4-5de1b35e7167.jpg",
+      "PackagePath": "staticwebassets\\uploads\\p_10ee9214-a059-43e7-b818-08c06cecca9f_6292cd1d-a6d0-42d5-9fb4-5de1b35e7167.jpg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\uploads\\p_6345c2fb-69f9-4e47-a71e-04d97fa34d04_1e1d23e6-626a-4390-a9ef-9da054b91313.jpg",
+      "PackagePath": "staticwebassets\\uploads\\p_6345c2fb-69f9-4e47-a71e-04d97fa34d04_1e1d23e6-626a-4390-a9ef-9da054b91313.jpg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\uploads\\p_ed673ea8-fa04-45ce-af4a-f43a42a6f056_919e215c-e3a8-49a9-9ad6-a7e69d5d715b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\p_ed673ea8-fa04-45ce-af4a-f43a42a6f056_919e215c-e3a8-49a9-9ad6-a7e69d5d715b.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Silicon.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Silicon.props",
+      "PackagePath": "build\\Silicon.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Silicon.props",
+      "PackagePath": "buildMultiTargeting\\Silicon.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Silicon.props",
+      "PackagePath": "buildTransitive\\Silicon.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

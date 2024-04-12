@@ -1,0 +1,123 @@
+header {
+    padding: 15px 0;
+
+    .container {
+        display: grid;
+        gap: 40px;
+        align-items: center;
+        grid-template-columns: 1fr auto;
+        grid-template-areas: "logo mobile";
+
+        @include md {
+            grid-template-columns: 1fr auto auto;
+            grid-template-areas: "logo sw mobile";
+        }
+
+        @include xl {
+            grid-template-columns: auto 1fr auto auto;
+            grid-template-areas: "logo nav sw accounts";
+        }
+
+
+        .logo {
+            grid-area: logo;
+        }
+
+        .nav-menu {
+            grid-area: nav;
+            display: none;
+
+            @include xl {
+                display: flex;
+                gap: 20px;
+            }
+
+            .nav-link {
+                display: block;
+                text-align: center;
+                padding: 20px;
+                font-size: 18px;
+                text-decoration: none;
+                @include font-semibold;
+                color: var(--color-gray-900);
+
+                @include xl {
+                    padding: 0;
+                }
+
+                &.active,
+                &:hover {
+                    color: var(--color-theme);
+                }
+            }
+
+            &.active {
+                display: block;
+                background-color: var(--color-gray-600);
+                position: fixed;
+                top: 0;
+                right: 0;
+                height: 100%;
+                width: 100%;
+                transform: translateX(0);
+                transition: transform 1.3s ease-in-out;
+            }
+        }
+
+        .theme-switch {
+            grid-area: sw;
+            display: none;
+
+            @include md {
+                display: block;
+            }
+        }
+
+        .account-buttons {
+            grid-area: accounts;
+            display: none;
+
+            @include xl {
+                display: flex;
+                gap: 10px;
+            }
+
+            .profile {
+                display: flex;
+                justify-content: center;
+
+                .image {
+                    position: relative;
+
+                    img {
+                        border-radius: 50%;
+                        height: 60px;
+                        width: 60px;
+                        object-fit: cover;
+                        border: 1px solid var(--color-gray-400);
+                    }
+
+                    form {
+                        position: relative;
+
+                        label {
+                            position: absolute;
+                            bottom: 10px;
+                            right: 0;
+                        }
+                    }
+                }
+            }
+        }
+
+        .btn-mobile {
+            grid-area: mobile;
+            display: block;
+            z-index: 20;
+
+            @include xl {
+                display: none;
+            }
+        }
+    }
+}

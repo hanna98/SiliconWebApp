@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\WebApiSubscribe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{825B4E75-27D3-45E3-A401-B2D795B8D233}|WebApiSubscribe\\WebApiSubscribe.csproj|c:\\nackademin\\asp.net1\\silicon_exam\\siliconproject\\webapisubscribe\\webapisubscribe\\models\\subscribeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825B4E75-27D3-45E3-A401-B2D795B8D233}|WebApiSubscribe\\WebApiSubscribe.csproj|solutionrelative:webapisubscribe\\models\\subscribeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825B4E75-27D3-45E3-A401-B2D795B8D233}|WebApiSubscribe\\WebApiSubscribe.csproj|c:\\nackademin\\asp.net1\\silicon_exam\\siliconproject\\webapisubscribe\\webapisubscribe\\controllers\\subscribecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825B4E75-27D3-45E3-A401-B2D795B8D233}|WebApiSubscribe\\WebApiSubscribe.csproj|solutionrelative:webapisubscribe\\controllers\\subscribecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825B4E75-27D3-45E3-A401-B2D795B8D233}|WebApiSubscribe\\WebApiSubscribe.csproj|c:\\nackademin\\asp.net1\\silicon_exam\\siliconproject\\webapisubscribe\\webapisubscribe\\contexts\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825B4E75-27D3-45E3-A401-B2D795B8D233}|WebApiSubscribe\\WebApiSubscribe.csproj|solutionrelative:webapisubscribe\\contexts\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825B4E75-27D3-45E3-A401-B2D795B8D233}|WebApiSubscribe\\WebApiSubscribe.csproj|c:\\nackademin\\asp.net1\\silicon_exam\\siliconproject\\webapisubscribe\\webapisubscribe\\entities\\subscribeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825B4E75-27D3-45E3-A401-B2D795B8D233}|WebApiSubscribe\\WebApiSubscribe.csproj|solutionrelative:webapisubscribe\\entities\\subscribeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825B4E75-27D3-45E3-A401-B2D795B8D233}|WebApiSubscribe\\WebApiSubscribe.csproj|c:\\nackademin\\asp.net1\\silicon_exam\\siliconproject\\webapisubscribe\\webapisubscribe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{825B4E75-27D3-45E3-A401-B2D795B8D233}|WebApiSubscribe\\WebApiSubscribe.csproj|solutionrelative:webapisubscribe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubscribeForm.cs",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\WebApiSubscribe\\WebApiSubscribe\\Models\\SubscribeForm.cs",
+              "RelativeDocumentMoniker": "WebApiSubscribe\\Models\\SubscribeForm.cs",
+              "ToolTip": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\WebApiSubscribe\\WebApiSubscribe\\Models\\SubscribeForm.cs",
+              "RelativeToolTip": "WebApiSubscribe\\Models\\SubscribeForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:30:57.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubscribeEntity.cs",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\WebApiSubscribe\\WebApiSubscribe\\Entities\\SubscribeEntity.cs",
+              "RelativeDocumentMoniker": "WebApiSubscribe\\Entities\\SubscribeEntity.cs",
+              "ToolTip": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\WebApiSubscribe\\WebApiSubscribe\\Entities\\SubscribeEntity.cs",
+              "RelativeToolTip": "WebApiSubscribe\\Entities\\SubscribeEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:23:13.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\WebApiSubscribe\\WebApiSubscribe\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiSubscribe\\appsettings.json",
+              "ToolTip": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\WebApiSubscribe\\WebApiSubscribe\\appsettings.json",
+              "RelativeToolTip": "WebApiSubscribe\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T07:22:33.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubscribeController.cs",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\WebApiSubscribe\\WebApiSubscribe\\Controllers\\SubscribeController.cs",
+              "RelativeDocumentMoniker": "WebApiSubscribe\\Controllers\\SubscribeController.cs",
+              "ToolTip": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\WebApiSubscribe\\WebApiSubscribe\\Controllers\\SubscribeController.cs",
+              "RelativeToolTip": "WebApiSubscribe\\Controllers\\SubscribeController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:11:14.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiContext.cs",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\WebApiSubscribe\\WebApiSubscribe\\Contexts\\ApiContext.cs",
+              "RelativeDocumentMoniker": "WebApiSubscribe\\Contexts\\ApiContext.cs",
+              "ToolTip": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\WebApiSubscribe\\WebApiSubscribe\\Contexts\\ApiContext.cs",
+              "RelativeToolTip": "WebApiSubscribe\\Contexts\\ApiContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:11:07.85Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

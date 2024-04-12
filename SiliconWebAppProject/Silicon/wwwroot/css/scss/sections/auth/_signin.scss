@@ -1,0 +1,55 @@
+.signin {
+    margin-bottom: 50px;
+
+    .container {
+        width: 95%;
+        display: flex;
+        justify-content: center;
+
+        @include md {
+            width: 50%;
+        }
+
+        @include xl {
+            width: 80%;
+        }
+
+        form {
+
+            @include xl {
+                width: 50%;
+            }
+
+            h1 {
+                margin-bottom: 0;
+            }
+
+            p {
+                margin-top: 0.5em;
+            }
+
+            .form-content {
+                display: grid;
+                margin-top: 0.5em;
+                gap: 5px;
+
+                .checkbox-group {
+                    margin-top: 20px;
+                    margin-bottom: 20px;
+
+                    .input-group {
+                        gap: 5px;
+                    }
+                }
+
+                button {
+                    width: 100%;
+                }
+
+                .input-validation-error {
+                    border: 1px solid var(--color-gray-400);
+                }
+            }
+        }
+    }
+}

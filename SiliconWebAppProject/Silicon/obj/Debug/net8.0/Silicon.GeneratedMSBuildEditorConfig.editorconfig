@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Silicon
+build_property.RootNamespace = Silicon
+build_property.ProjectDir = C:\Nackademin\Asp.net1\Silicon_Exam\SiliconProject\SiliconWebAppProject\Silicon\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Nackademin\Asp.net1\Silicon_Exam\SiliconProject\SiliconWebAppProject\Silicon
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Account/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Account/Security.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTZWN1cml0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Account/_AccountProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxfQWNjb3VudFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Auth/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Auth/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Default/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Partials/Sections/Home/_Download.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcU2VjdGlvbnNcSG9tZVxfRG93bmxvYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Partials/Sections/Home/_Features.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcU2VjdGlvbnNcSG9tZVxfRmVhdHVyZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Partials/Sections/Home/_Integrate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcU2VjdGlvbnNcSG9tZVxfSW50ZWdyYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Partials/Sections/Home/_Light-Dark.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcU2VjdGlvbnNcSG9tZVxfTGlnaHQtRGFyay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Partials/Sections/Home/_Manage-Work.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcU2VjdGlvbnNcSG9tZVxfTWFuYWdlLVdvcmsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Partials/Sections/Home/_Newsletter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcU2VjdGlvbnNcSG9tZVxfTmV3c2xldHRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Partials/Sections/Home/_Showcase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcU2VjdGlvbnNcSG9tZVxfU2hvd2Nhc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Partials/Sections/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcU2VjdGlvbnNcX0Zvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Partials/Sections/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcU2VjdGlvbnNcX0hlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Shared/_AccountLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BY2NvdW50TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Shared/_CookieConsent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db29raWVDb25zZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Nackademin/Asp.net1/Silicon_Exam/SiliconProject/SiliconWebAppProject/Silicon/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

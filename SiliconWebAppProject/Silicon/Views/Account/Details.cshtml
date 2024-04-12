@@ -1,0 +1,94 @@
+﻿@model AccountDetailsViewModel
+@{
+	Layout = "_AccountLayout";
+	ViewData["Title"] = "Details";
+}
+
+<section class="details">
+	<div class="container">
+		<h2>Account Details</h2>
+
+        <h5 class="h5-theme">Basic Info</h5>
+        <form class="form-basic-info form-signin" method="post" asp-controller="Account" asp-action="UpdateBasicInfo">
+            <div class="form-content">
+
+                <div class="input-firstname input-group">
+                    <label class="input-label" asp-for="BasicInfo.FirstName"></label>
+                    <input asp-for="BasicInfo.FirstName" />
+                    <span asp-validation-for="BasicInfo.FirstName"></span>
+                </div>
+
+                <div class="input-lastname input-group">
+                    <label class="input-label" asp-for="BasicInfo.LastName"></label>
+                    <input asp-for="BasicInfo.LastName" />
+                    <span asp-validation-for="BasicInfo.LastName"></span>
+                </div>
+
+                <div class="input-email input-group">
+                    <label class="input-label" asp-for="BasicInfo.Email"></label>
+                    <input asp-for="BasicInfo.Email" disabled />
+                    <span asp-validation-for="BasicInfo.Email"></span>
+                </div>
+
+                <div class="input-phone input-group">
+                    <label class="input-label" asp-for="BasicInfo.PhoneNumber"></label>
+                    <input asp-for="BasicInfo.PhoneNumber" />
+                    <span asp-validation-for="BasicInfo.PhoneNumber"></span>
+                </div>
+
+                <div class="input-bio input-group">
+                    <label class="input-label" asp-for="BasicInfo.Biography"></label>
+                    <textarea asp-for="BasicInfo.Biography"></textarea>
+                    <span asp-validation-for="BasicInfo.Biography"></span>
+                </div>
+
+                <div class="submit">
+                    <div class="submit-buttons">
+                        <button type="reset" class="btn btn-gray">Cancel</button>
+                        <button type="submit" class="btn btn-theme">Save changes</button>
+                    </div>
+                </div>
+
+            </div>
+        </form>
+
+        <hr class="account-middle-line"></hr>
+
+        <h5 class="h5-theme">Address</h5>
+        <form class="form-address-info form-signin" method="post" asp-controller="Account" asp-action="UpdateAddressInfo">
+            <div class="form-content">
+                <div class="input-addressline1 input-group">
+                    <label class="input-label" asp-for="AddressInfo.AddressLine_1"></label>
+                    <input asp-for="AddressInfo.AddressLine_1" />
+                    <span asp-validation-for="AddressInfo.AddressLine_1"></span>
+                </div>
+
+                <div class="input-addressline2 input-group">
+                    <label class="input-label" asp-for="AddressInfo.AddressLine_2"></label>
+                    <input asp-for="AddressInfo.AddressLine_2" />
+                    <span asp-validation-for="AddressInfo.AddressLine_2"></span>
+                </div>
+
+                <div class="input-postal input-group">
+                    <label class="input-label" asp-for="AddressInfo.PostalCode"></label>
+                    <input asp-for="AddressInfo.PostalCode" />
+                    <span asp-validation-for="AddressInfo.PostalCode"></span>
+                </div>
+
+                <div class="input-city input-group">
+                    <label class="input-label" asp-for="AddressInfo.City"></label>
+                    <input asp-for="AddressInfo.City" />
+                    <span asp-validation-for="AddressInfo.City"></span>
+                </div>
+
+                <div class="submit">
+                    <div class="submit-buttons">
+                        <button type="reset" class="btn btn-gray">Cancel</button>
+                        <button type="submit" class="btn btn-theme">Save changes</button>
+                    </div>
+                </div>
+
+            </div>
+        </form>
+	</div>
+</section>

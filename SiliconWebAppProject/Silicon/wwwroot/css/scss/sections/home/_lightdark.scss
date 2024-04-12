@@ -1,0 +1,81 @@
+.light-dark {
+    background: linear-gradient(to right, var(--color-gray-900) 49.95%, var(--color-theme) 49.95% 50.15%, var(--color-gray-000) 50.15%);
+    padding: 100px 0;
+
+    .container {
+        position: relative;
+
+        .slider-h2-computer {
+            position: relative;
+
+            .slider-h2 {
+                text-align: center;
+                color: var(--color-white);
+                padding-left: 0.85em;
+
+                span {
+                    padding-left: 0.4em;
+                    color: var(--color-gray-900);
+                }
+            }
+
+            .computer {
+                text-align: center;
+
+                .img-computer {
+                    width: 400px;
+
+                    @include md {
+                        width: 476px;
+                    }
+
+                    @include lg {
+                        width: 696px;
+                    }
+
+                    @include xl {
+                        width: 936px;
+                    }
+
+                    @include xxl {
+                        width: 1076px;
+                    }
+                }
+            }
+        }
+
+        .button {
+
+            .img-button {
+                position: absolute;
+                left: 50%;
+                transform: translateX(-50%);
+                top: 4.2em;
+                width: 70%;
+                height: 70%;
+
+                @include md {
+                    top: 4em;
+                    width: 80%;
+                    height: 80%;
+                }
+
+                @include lg {
+                    top: 0;
+                    width: 110%;
+                    height: 110%;
+                }
+
+                @include xl {
+                    width: 110%;
+                    height: 110%;
+                }
+
+                @include xxl {
+                    width: 108%;
+                    height: 108%;
+                }
+            }
+        }
+    }
+}

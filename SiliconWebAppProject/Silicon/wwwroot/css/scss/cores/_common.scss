@@ -1,0 +1,94 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    
+}
+
+body {
+    margin: 0;
+    font-size: 16px;
+    @include font-standard;
+    color: var(--color-gray-800);
+    background-color: var(--color-gray-000);
+}
+
+.wrapper{
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    height: 100vh;
+}
+
+.container{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 12px;
+    padding-right: 12px;
+
+   @include md {
+    max-width: 720px;
+   }
+   @include lg {
+    max-width: 960px;
+   }
+   @include xl {
+    max-width: 1140px;
+   }
+   @include xxl {
+    max-width: 1320px;
+   }
+}
+
+.a1 {
+    color: var(--color-theme);
+
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.a2 {
+    color: var(--color-theme);
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.no-mp {
+    padding: 0;
+    margin: 0;
+}
+@mixin no-mp {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+.fixed-bottom {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.alert {
+    border-radius: 8px;
+    font-size: 1rem;
+    padding: 12px 1rem;
+    display: block;
+}
+
+.alert-gray {
+    background-color: var(--color-gray-200);
+    color: var(--color-gray-800);
+}

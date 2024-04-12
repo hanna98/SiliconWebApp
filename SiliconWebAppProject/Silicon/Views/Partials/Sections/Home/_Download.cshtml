@@ -1,0 +1,51 @@
+﻿@{
+    var theme = Context.Request.Cookies["theme"] ?? "light";
+    var isDarkMode = (theme == "dark") ? true : false;
+}
+
+
+<section class="downloads">
+    <div class="container">
+        <div class="iphone">
+            <img class="img-iphone" src="~/Images/homepage_img/downloads/screens.svg" alt="iphone">
+        </div>
+
+        <div class="content">
+            <h2 class="h1">Download Our App for Any Devices:</h2>
+
+            <div class="download-content">
+                <div class="download-head">
+                    <p class="no-mp">App Store</p>
+                    <img class="no-mp" src="~/Images/homepage_img/downloads/rating.svg" alt="rating">
+                </div>
+
+                <div class="download-app">
+                    <div class="download-text">
+                        <h4 class="no-mp">Editor's Choice</h4>
+                        <p class="no-mp">rating 4.7, 187K+ reviews</p>
+                    </div>
+                    <div class="download-img">
+                        <a asp-action="Home" asp-controller="Default"><img class="appstore" src="~/Images/homepage_img/downloads/appstore-@(theme).svg" alt="appstore"></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="download-content">
+                <div class="download-head">
+                    <p class="no-mp">Google Play</p>
+                    <img class="no-mp" src="~/Images/homepage_img/downloads/rating.svg" alt="rating">
+                </div>
+
+                <div class="download-app">
+                    <div class="download-text">
+                        <h4 class="no-mp">App of the Day</h4>
+                        <p class="no-mp">rating 4.8, 30K+ reviews</p>
+                    </div>
+                    <div class="download-img">
+                        <a asp-action="Home" asp-controller="Default"><img class="googlepay" src="~/Images/homepage_img/downloads/googleplay-@(theme).svg" alt="googlepay"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

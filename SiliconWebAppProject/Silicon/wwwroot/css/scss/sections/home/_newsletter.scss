@@ -1,0 +1,65 @@
+.newsletter {
+    background-color: var(--color-gray-100);
+    padding: 4rem 0;
+
+    .container {
+        width: 55%;
+
+        .title {
+            display: flex;
+            align-items: center;
+            gap: 9px;
+        }
+
+        form {
+            .alternative {
+                margin-top: 1em;
+                margin-bottom: 3.5em;
+                display: flex;
+
+
+                h5 {
+                    margin: 0;
+                }
+
+                .options {
+                    display: grid;
+                    grid-template-columns: 1fr 1fr 1fr;
+
+                    .checkbox-group {
+                        padding-right: 1em;
+                    }
+                }
+            }
+
+            .subscribe {
+                display: grid;
+                align-items: start;
+                grid-template-columns: 3fr 1fr;
+                gap: 1.5rem;
+
+                .input-group {
+                    position: relative;
+
+                    i {
+                        position: absolute;
+                        left: 20px;
+                        top: 12px;
+                        font-size: 1.3em;
+                        color: var(--color-gray-500);
+                    }
+
+                    input {
+                        padding-left: 55px;
+                        height: 43px;
+                        color: var(--color-gray-500);
+                    }
+                }
+            }
+
+            .terms-policy {
+                color: var(--color-gray-600);
+            }
+        }
+    }
+}

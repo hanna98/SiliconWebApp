@@ -1,0 +1,75 @@
+﻿@model SubscriberViewModel
+
+<section class="newsletter">
+    <div class="container">
+        <div class="title">
+            <h2 class="h1">Don't Want to Miss Anything?</h2>
+            <img src="~/images/homepage_img/newsletter/arrows.svg" alt="Arrows" />
+        </div>
+        <form class="form-signin" method="post" asp-action="Newsletter" asp-controller="Default">
+            <div class="alternative">
+                <h5>Sign up for Newsletters</h5>
+
+                <div class="options">
+                    <div class="checkbox-group">
+                        <div class="input-group">
+                            <input asp-for="DailyNewsletter" />
+                            <label asp-for="DailyNewsletter"></label>
+                        </div>
+                    </div>
+
+                    <div class="checkbox-group">
+                        <div class="input-group">
+                            <input asp-for="AdvertisingUpdates" />
+                            <label asp-for="AdvertisingUpdates"></label>
+                        </div>
+                    </div>
+
+                    <div class="checkbox-group">
+                        <div class="input-group">
+                            <input asp-for="WeekinReview" />
+                            <label asp-for="WeekinReview"></label>
+                        </div>
+                    </div>
+
+                    <div class="checkbox-group">
+                        <div class="input-group">
+                            <input asp-for="EventUpdates" />
+                            <label asp-for="EventUpdates"></label>
+                        </div>
+                    </div>
+
+                    <div class="checkbox-group">
+                        <div class="input-group">
+                            <input asp-for="StartupWeekly" />
+                            <label asp-for="StartupWeekly"></label>
+                        </div>
+                    </div>
+
+                    <div class="checkbox-group">
+                        <div class="input-group">
+                            <input asp-for="Podcasts" />
+                            <label asp-for="Podcasts"></label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="subscribe">
+                <div class="input-group">
+                    <i class="fa-regular fa-envelope"></i>
+                    <input asp-for="Email" placeholder="Your Email"/>
+                </div>
+                <button class="btn btn-theme" type="submit">Subscribe *</button>
+            </div>
+            @if (!string.IsNullOrEmpty(TempData["SubscriberStatus"]?.ToString()))
+            {
+                <p class="terms-policy">* @TempData["SubscriberStatus"]</p>
+            }
+            else
+            {
+                <p class="terms-policy">* Yes, I agree to the <a class="a1" asp-action="Terms" asp-controller="About">terms</a> and <a class="a1" asp-action="Policy" asp-controller="About">privacy policy</a>.</p>
+            }
+        </form>
+    </div>
+</section>

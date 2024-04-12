@@ -1,0 +1,72 @@
+.security {
+    margin-bottom: 3em;
+
+    .container {
+        display: block;
+
+        .h5-theme {
+            color: var(--color-theme);
+            @include no-mp;
+            margin-top: 30px;
+        }
+
+        .account-middle-line {
+            width: 100%;
+            border: 1px solid var(--color-gray-300);
+        }
+
+        .form-password {
+            margin-bottom: 40px;
+
+            .form-content {
+                display: grid;
+                gap: 5px;
+                grid-template-columns: 1fr;
+                grid-template-areas:
+                    "current" "new" "confirm" "submit";
+
+                @include md {
+                    grid-template-columns: 1fr 1fr;
+                    grid-template-areas:
+                        "current current" "new confirm" "submit submit";
+                }
+
+                .input-current {
+                    grid-area: current;
+                }
+
+                .input-new {
+                    grid-area: new;
+                }
+
+                .input-confirm {
+                    grid-area: confirm;
+                }
+
+                .submit {
+                    grid-area: submit;
+                    margin-top: 1em;
+
+                    .submit-buttons {
+                        display: flex;
+                        gap: 10px;
+                    }
+                }
+            }
+        }
+
+        .form-delete {
+            margin-bottom: 40px;
+
+            .form-content {
+                display: block;
+
+                .checkbox-group {
+                    margin-bottom: 25px;
+                    margin-top: 5px;
+                    margin-left: 2px;
+                }
+            }
+        }
+    }
+}

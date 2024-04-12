@@ -1,0 +1,54 @@
+.manage-work {
+
+    .container {
+        margin-top: 40px;
+        display: grid;
+        grid-template-columns: 1fr;
+
+        @include md {
+            grid-template-columns: 1fr 1fr;
+        }
+
+        .manage-work-tool-left {
+            .dashboard {
+                width: 100%;
+            }
+        }
+
+        .manage-work-tool-right {
+            margin-left: 15px;
+
+            ul {
+                list-style: none;
+                padding-left: 0;
+
+                li {
+                    padding-left: 20px;
+                    background: url('/images/homepage_img/ManageWork/bx-check-circle.svg') left center no-repeat;
+                    background-size: 16px 16px;
+                    margin-bottom: 10px;
+                }
+            }
+
+            i {
+                margin-left: 20px;
+            }
+
+            @include xl {
+                margin-left: auto;
+                margin-top: 3.5em;
+            }
+        }
+
+        .learn-more {
+            .btn {
+                display: block;
+                text-align: center;
+
+                @include md {
+                    display: inline-block;
+                }
+            }
+        }
+    }
+}
