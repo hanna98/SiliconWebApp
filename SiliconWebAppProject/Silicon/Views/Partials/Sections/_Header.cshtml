@@ -16,11 +16,12 @@
             {
                 <a asp-action="Index" asp-controller="Courses" class="nav-link @Html.ActiveClass("Courses", "Index")">Courses</a>
             }
-            else {
+            else
+            {
                 <a href="#features" class="nav-link">Features</a>
             }
-            
-            <a asp-action="Contact" asp-controller="Default" class="nav-link @Html.ActiveClass("Contact", "Index")">Contact</a>
+
+            <a asp-action="Index" asp-controller="Contact" class="nav-link @Html.ActiveClass("Contact", "Index")">Contact</a>
         </nav>
 
         <div id="theme-switch" class="theme-switch">
@@ -52,5 +53,4 @@
 
         <button class="btn btn-mobile"><i class="fa-regular fa-bars"></i></button>
     </div>
-
 </header>

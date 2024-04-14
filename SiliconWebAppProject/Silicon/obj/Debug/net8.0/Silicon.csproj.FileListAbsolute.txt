@@ -346,3 +346,4 @@ C:\Nackademin\Asp.net1\Silicon_Exam\SiliconProject\SiliconWebAppProject\Silicon\
 C:\Nackademin\Asp.net1\Silicon_Exam\SiliconProject\SiliconWebAppProject\Silicon\obj\Debug\net8.0\Silicon.pdb
 C:\Nackademin\Asp.net1\Silicon_Exam\SiliconProject\SiliconWebAppProject\Silicon\obj\Debug\net8.0\Silicon.genruntimeconfig.cache
 C:\Nackademin\Asp.net1\Silicon_Exam\SiliconProject\SiliconWebAppProject\Silicon\obj\Debug\net8.0\ref\Silicon.dll
+C:\Nackademin\Asp.net1\Silicon_Exam\SiliconProject\SiliconWebAppProject\Silicon\obj\Debug\net8.0\Silicon.sourcelink.json

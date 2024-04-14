@@ -133,6 +133,10 @@
       "PackagePath": "staticwebassets\\css\\scss\\sections\\home\\_showcase.scss"
     },
     {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\partials\\_contact.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\partials\\_contact.scss"
+    },
+    {
       "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\css\\scss\\sections\\partials\\_footer.scss",
       "PackagePath": "staticwebassets\\css\\scss\\sections\\partials\\_footer.scss"
     },
@@ -155,6 +159,14 @@
     {
       "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\contact\\Map.svg",
+      "PackagePath": "staticwebassets\\images\\contact\\Map.svg"
+    },
+    {
+      "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\contact\\Vector.svg",
+      "PackagePath": "staticwebassets\\images\\contact\\Vector.svg"
     },
     {
       "Id": "C:\\Nackademin\\Asp.net1\\Silicon_Exam\\SiliconProject\\SiliconWebAppProject\\Silicon\\wwwroot\\images\\courses\\course_1.svg",

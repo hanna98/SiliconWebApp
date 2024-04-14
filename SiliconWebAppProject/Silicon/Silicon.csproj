@@ -29,7 +29,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Partials\Sections\Account\" />
     <Folder Include="wwwroot\images\courses\" />
     <Folder Include="wwwroot\uploads\" />
   </ItemGroup>
