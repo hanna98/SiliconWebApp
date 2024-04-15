@@ -796,7 +796,37 @@ footer .container .copyright .footer-span {
 .contact {
   background-color: var(--color-gray-100);
 }
-.contact .container .contact-top .left {
+.contact .container .back {
+  position: relative;
+}
+.contact .container .back .contact-top {
+  width: 30%;
+  margin-left: 100px;
+}
+.contact .container .back .contact-top .home {
+  padding-top: 30px;
+  display: flex;
+  gap: 15px;
+  text-align: center;
+}
+.contact .container .back .contact-top .home .p-gray {
+  color: var(--color-gray-600);
+}
+.contact .container .back .contact-top .home .p-gray .fa-home {
+  padding-right: 5px;
+}
+.contact .container .back .contact-top .home .p-theme {
+  color: var(--color-theme);
+}
+.contact .container .back .contact-top .contact-us {
+  padding-bottom: 50px;
+}
+.contact .container .back .contact-top .contact-us .email-careers {
+  display: flex;
+  gap: 20px;
+  padding-bottom: 30px;
+}
+.contact .container .back .contact-top .contact-us .email-careers .left {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -808,13 +838,78 @@ footer .container .copyright .footer-span {
   text-decoration: none;
   transition: all 0.15s ease-in-out;
 }
-.contact .container .contact-top .left:hover {
-  background-color: var(--color-gray-800);
-  color: var(--color-gray-200);
+.contact .container .back .contact-top .contact-us .email-careers .left img {
+  width: 17px;
 }
-.contact .container .contact-bot {
+.contact .container .back .contact-top .contact-us .email-careers .left i {
+  color: var(--color-theme);
+}
+.contact .container .back .contact-top .contact-us .email-careers .right {
+  width: 70%;
+}
+.contact .container .back .contact-top .contact-us .email-careers .right h4 {
+  padding: 0;
+  margin: 0;
+}
+.contact .container .back .contact-top .contact-us .email-careers .right p {
+  padding: 0;
+  margin: 0;
+  padding: 10px 0;
+}
+.contact .container .back .contact-bot {
+  position: relative;
   width: 100%;
-  height: 50%;
+  left: -85px;
+}
+.contact .container .back .contact-bot .bot-img {
+  width: 113%;
+}
+.contact .container .form-contact {
+  position: absolute;
+  width: 400px;
+  height: 650px;
+  top: 10em;
+  right: 10em;
+  border-radius: 8px;
+  background-color: var(--color-white);
+  border-width: 0 6px 4px 0;
+  border-color: transparent var(--color-gray-400) var(--color-gray-400);
+  border-style: none solid solid none;
+  box-sizing: border-box;
+}
+.contact .container .form-contact h4 {
+  padding: 0;
+  margin: 0;
+  padding: 0 50px;
+  padding-top: 40px;
+  padding-bottom: 10px;
+}
+.contact .container .form-contact .form-signin {
+  width: 350px;
+  padding: 0 50px;
+  display: grid;
+  gap: 5px;
+  grid-template-columns: 1fr;
+  grid-template-areas: "fullname" "email" "service" "message" "submit";
+}
+.contact .container .form-contact .form-signin .input-fullname {
+  grid-area: fullname;
+}
+.contact .container .form-contact .form-signin .input-email {
+  grid-area: email;
+}
+.contact .container .form-contact .form-signin .input-service {
+  grid-area: service;
+}
+.contact .container .form-contact .form-signin .input-message {
+  grid-area: message;
+}
+.contact .container .form-contact .form-signin .input-message textarea {
+  height: 150px;
+}
+.contact .container .form-contact .form-signin .submit {
+  grid-area: submit;
+  padding-top: 10px;
 }
 
 .showcase {
